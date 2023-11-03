@@ -1,0 +1,14 @@
+1. Sum of Numbers: Write a program that calculates the sum of all numbers from 1 to a given positive integer n.
+2. Factorial: Create a program to calculate the factorial of a positive integer n using a loop.
+3. Fibonacci Sequence: Write a program to generate the first n terms of the Fibonacci sequence using a loop.
+4. Prime Number Checker: Develop a program that checks whether a given integer n is a prime number or not.
+5. Multiplication Table: Create a program that generates the multiplication table for a given integer n up to a specified range.
+6. Count Digits: Write a program that counts and displays the number of digits in a given integer.
+7. Reverse a Number: Develop a program to reverse the digits of a given integer.
+8. Factorization: Write a program that finds the prime factors of a given integer.
+9. Calculate Average: Create a program to calculate the average of a set of numbers entered by the user until a sentinel value is input.
+10. Greatest Common Divisor (GCD): Write a program to find the GCD of two integers using the Euclidean algorithm.
+11. Pattern Printing: Create programs to print patterns using nested loops (e.g., triangles, rectangles, diamonds).
+12. Sum of Digits: Write a program to find the sum of the digits of a given integer.
+13. Armstrong Number: Develop a program that checks if a number is an Armstrong number (a number that is equal to the sum of its own digits raised to the power of the number of digits).
+14. Calendar: Write a program to display a calendar for a given month and year.
